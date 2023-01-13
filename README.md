@@ -1,6 +1,8 @@
 <h1 align="center">Hi 😎, I'm Manoj Salet</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
+
 -🔭 I’m currently working on social media<br><br>- 🌱 I’m currently learning Android, Python<br><br>- 💬 Ask me about HTML, CSS, JAVASCRIPT<br><br>- 📫 How to reach me mr.salet13@gmail.com<br><br>- ⚡ Fun fact I am funny
 
 
